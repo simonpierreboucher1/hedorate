@@ -5,9 +5,7 @@ export const Welcome: React.FC = () => (
 
     </p>
     <p>
-      <a className="underline" href="https://github.com/ascorbic/daneel#readme">
-        Build your own
-      </a>
+     
     </p>
   </div>
 );
